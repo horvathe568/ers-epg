@@ -5,20 +5,27 @@ JOJ Plus
 JOJ Krimi
 JOJ Family
 JOJ Cinema
+JOJ WAU
+JOJ24
 Dajto
 Markíza
 Markíza Krimi
 Markíza Klasik
+Doma
+Markíza International
 Prima SK
 Prima Cool SK
 Prima Krimi SK
 Prima Love SK
 ČT1
 ČT2
-Nova
-Nova Action
-Nova Krimi
+Nova HD
 Nova Cinema
+Nova Action HD
+Nova Fun HD
+Nova Lady HD
+Nova Krimi
+Nova International
 Prima CZ
 Prima Cool CZ
 Prima Krimi CZ
@@ -36,9 +43,11 @@ HBO 3
 Cinemax
 Cinemax 2
 Filmbox
-Filmbox Plus
+FILMBOX+ Hits
+FILMBOX+ Love & Crime
 Filmbox+ Emotion
 Film+
+CS Film
 Barrandov Krimi
 FILMBOX+ Comedy Czechia
 Kino Barrandov
