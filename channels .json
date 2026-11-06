@@ -1,0 +1,1090 @@
+[
+  {
+    "name": "Jednotka",
+    "url": "http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/stvr1.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "1",
+    "backups": [
+      "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Dvojka",
+    "url": "http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/stvr2.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "2",
+    "backups": [
+      "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "TV JOJ",
+    "url": "http://88.212.15.50/live/test_joj_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "JOJ",
+    "logo": "https://cdn.dobes.pw/tvp/640/joj.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8"
+    ]
+  },
+  {
+    "name": "JOJ Plus",
+    "url": "https://santovic-test.6f.sk/sktv-forwarders/get.php?x=JOJP",
+    "tags": [
+      "sk"
+    ],
+    "short": "J+",
+    "logo": "https://cdn.dobes.pw/tvp/640/jojplus.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8"
+    ]
+  },
+  {
+    "name": "JOJ Krimi",
+    "url": "http://88.212.15.50/live/test_wau_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "JK",
+    "logo": "https://cdn.dobes.pw/tvp/640/jojkrimi.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8"
+    ]
+  },
+  {
+    "name": "JOJ Family",
+    "url": "http://88.212.15.50/live/joj_family_avc_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "JF",
+    "logo": "https://cdn.dobes.pw/tvp/640/jojfamily.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8"
+    ]
+  },
+  {
+    "name": "JOJ Cinema",
+    "url": "http://88.212.15.50/live/test_joj_cinema_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "JC",
+    "logo": "https://cdn.dobes.pw/tvp/640/jojcinema.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8"
+    ]
+  },
+  {
+    "name": "Dajto",
+    "url": "http://193.33.39.108:8088/dajto/index.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "DJ",
+    "color": "#1565C0",
+    "logo": "https://cdn.dobes.pw/tvp/640/dajto.png",
+    "backups": [
+      "http://88.212.15.50/live/test_dajto_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Markíza",
+    "url": "http://88.212.15.50/live/test_markiza_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/markiza.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "M",
+    "backups": [
+      "https://cdnsk003.panaccess.com/local/Markiza/index.m3u8"
+    ]
+  },
+  {
+    "name": "Markíza Krimi",
+    "url": "http://88.212.15.50/live/test_markiza_krimi_hevc/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "MK",
+    "logo": "https://cdn.dobes.pw/tvp/640/markizakrimi.png",
+    "backups": [
+      "https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8"
+    ]
+  },
+  {
+    "name": "Markíza Klasik",
+    "url": "http://88.212.15.50/live/markiza_klasik_hevc/index.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/markizaklasik.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "KL",
+    "backups": [
+      "https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8"
+    ]
+  },
+  {
+    "name": "Doma",
+    "url": "http://88.212.15.50/live/test_doma_hd_hevc/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/doma.png"
+  },
+  {
+    "name": "Markíza International",
+    "url": "http://88.212.15.50/live/markiza_int_avc_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/markizainternational.png"
+  },
+  {
+    "name": "Prima SK",
+    "url": "http://88.212.15.50/live/test_prima_plus_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primask.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "P"
+  },
+  {
+    "name": "Prima Cool SK",
+    "url": "http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8",
+    "tags": [
+      "sk"
+    ],
+    "short": "PC",
+    "logo": "https://cdn.dobes.pw/tvp/640/primacoolsk.png"
+  },
+  {
+    "name": "Prima Krimi SK",
+    "url": "http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primakrimisk.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "PK"
+  },
+  {
+    "name": "Prima Love SK",
+    "url": "http://88.212.15.50/live/prima_love_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primalovesk.png",
+    "tags": [
+      "sk"
+    ],
+    "short": "PL"
+  },
+  {
+    "name": "ČT1",
+    "url": "http://88.212.15.50/live/test_ct1_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/ct1.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "ČT1",
+    "backups": [
+      "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "ČT2",
+    "url": "http://88.212.15.50/live/test_ct2_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/ct2.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "ČT2",
+    "backups": [
+      "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nova HD",
+    "url": "http://88.212.15.50/live/nova_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/nova.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "N",
+    "backups": [
+      "http://212.102.38.45/live/nova_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nova Cinema",
+    "url": "http://88.212.15.50/live/nova_cinema_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/novacinema.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "NC",
+    "backups": [
+      "http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nova Action HD",
+    "url": "http://88.212.15.50/live/nova_action_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/novaaction.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "NA",
+    "backups": [
+      "http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nova Fun HD",
+    "url": "http://88.212.15.50/live/nova_fun_avc_25p/playlist.m3u8",
+    "tags": [
+      "cz"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/novafun.png"
+  },
+  {
+    "name": "Nova Krimi",
+    "url": "http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8",
+    "tags": [
+      "cz"
+    ],
+    "short": "NK",
+    "logo": "https://cdn.dobes.pw/tvp/640/novakrimi.png",
+    "backups": [
+      "http://88.212.15.50/live/nova_gold_avc_25p/playlist.m3u8",
+      "http://88.212.15.50/live/nova_lady_hd/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nova International",
+    "url": "http://88.212.15.50/live/test_nova_int_25p/playlist.m3u8",
+    "tags": [
+      "cz"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/novainternational.png"
+  },
+  {
+    "name": "Prima CZ",
+    "url": "http://88.212.15.50/live/prima_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/prima.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "P",
+    "backups": [
+      "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Prima Cool CZ",
+    "url": "http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primacool.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PC",
+    "backups": [
+      "http://88.212.15.50/live/prima_cool_cz_hevc/index.m3u8",
+      "http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8"
+    ]
+  },
+  {
+    "name": "Prima Krimi CZ",
+    "url": "http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primakrimi.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PK"
+  },
+  {
+    "name": "Prima Love CZ",
+    "url": "http://88.212.15.50/live/prima_love_cz_avc/index.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primalove.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PL",
+    "backups": [
+      "http://88.212.15.50/live/prima_love_cz_hevc/index.m3u8",
+      "http://88.212.15.19/live/prima_love_cz_avc/index.m3u8"
+    ]
+  },
+  {
+    "name": "Prima Max",
+    "url": "http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primamax.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PM"
+  },
+  {
+    "name": "Prima Show",
+    "url": "http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primashow.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PS",
+    "backups": [
+      "http://88.212.15.50/live/prima_show_25p/playlist.m3u8",
+      "http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Prima Star",
+    "url": "http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primastar.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PST",
+    "backups": [
+      "http://88.212.15.50/live/prima_star_25p/playlist.m3u8",
+      "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Prima Zoom",
+    "url": "http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8",
+    "logo": "https://cdn.dobes.pw/tvp/640/primazoom.png",
+    "tags": [
+      "cz"
+    ],
+    "short": "PZ",
+    "backups": [
+      "http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "AMC",
+    "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "AMC",
+    "color": "#212121",
+    "logo": "https://cdn.dobes.pw/tvp/640/amc.png"
+  },
+  {
+    "name": "AXN",
+    "url": "http://212.102.38.45/live/test_axn/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "AXN",
+    "color": "#1565C0",
+    "logo": "https://cdn.dobes.pw/tvp/640/axn.png",
+    "backups": [
+      "http://88.212.15.19/live/test_axn/playlist.m3u8",
+      "http://88.212.15.50/live/test_axn/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "AXN Black",
+    "url": "http://88.212.15.50/live/test_black/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "AXB",
+    "color": "#212121",
+    "logo": "https://cdn.dobes.pw/tvp/640/axnblack.png"
+  },
+  {
+    "name": "HBO",
+    "url": "http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "HBO",
+    "color": "#111111",
+    "logo": "https://cdn.dobes.pw/tvp/640/hbo.png",
+    "backups": [
+      "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "HBO 2",
+    "url": "http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "HBO2",
+    "color": "#111111",
+    "logo": "https://cdn.dobes.pw/tvp/640/hbo2.png",
+    "backups": [
+      "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "HBO 3",
+    "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "HBO3",
+    "color": "#111111",
+    "logo": "https://cdn.dobes.pw/tvp/640/hbo3.png"
+  },
+  {
+    "name": "Cinemax",
+    "url": "http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "CMX",
+    "color": "#B71C1C",
+    "logo": "https://cdn.dobes.pw/tvp/640/cinemax.png",
+    "backups": [
+      "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Cinemax 2",
+    "url": "http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "CMX2",
+    "color": "#B71C1C",
+    "logo": "https://cdn.dobes.pw/tvp/640/cinemax2.png",
+    "backups": [
+      "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Filmbox",
+    "url": "http://212.102.38.45/live/test_filmbox/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "FB",
+    "color": "#6A1B9A",
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplusone.png",
+    "backups": [
+      "http://88.212.15.50/live/test_filmbox/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "FILMBOX+ Hits",
+    "url": "http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplushits.png",
+    "short": "FB+"
+  },
+  {
+    "name": "FILMBOX+ Love & Crime",
+    "url": "http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "L&C",
+    "color": "#6A1B9A",
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplusloveandcrime.png"
+  },
+  {
+    "name": "Filmbox+ Emotion",
+    "url": "http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "FBE",
+    "color": "#6A1B9A",
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplusemotion.png"
+  },
+  {
+    "name": "FILMBOX+ Comedy Czechia",
+    "url": "http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxpluscomedy.png"
+  },
+  {
+    "name": "Film+",
+    "url": "http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "short": "F+",
+    "color": "#00695C",
+    "logo": "https://cdn.dobes.pw/tvp/640/filmplus.png",
+    "backups": [
+      "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "CS Film",
+    "url": "http://88.212.15.50/live/cs_film_avc_25p/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/csfilm.png"
+  },
+  {
+    "name": "Barrandov Krimi",
+    "url": "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/barrandovkrimi.png",
+    "backups": [
+      "http://88.212.15.50/live/test_barrandov_plus_atk_1200/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Kino Barrandov",
+    "url": "http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/barrandovkino.png",
+    "backups": [
+      "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "TV Barrandov",
+    "url": "http://88.212.15.50/live/test_barrandov/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/barrandov.png",
+    "backups": [
+      "http://88.212.15.19/live/test_barrandov/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Story4 Czechia",
+    "url": "http://88.212.7.14/live/story_4_cze_atk/index.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/story4.png"
+  },
+  {
+    "name": "Warner TV",
+    "url": "http://88.212.15.50/live/warner_tv/index.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/warnertv.png"
+  },
+  {
+    "name": "Televize Seznam",
+    "url": "http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/seznamcz.png",
+    "backups": [
+      "http://88.212.15.50/live/test_seznam_tv_atktv/playlist.m3u8",
+      "http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Viasat Epic Drama Czechia",
+    "url": "http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/viasatepicdrama.png"
+  },
+  {
+    "name": "AXN White",
+    "url": "http://88.212.15.50/live/test_white/playlist.m3u8",
+    "tags": [
+      "movies"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/axnwhite.png"
+  },
+  {
+    "name": "Cartoon Network CEE Czech Republic",
+    "url": "http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/cartoonnetwork.png",
+    "backups": [
+      "http://88.212.15.50/live/test_cartoon_network_tizen/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Cartoonito CEE Czechia",
+    "url": "http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/cartoonito.png"
+  },
+  {
+    "name": "CT Decko",
+    "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ctd.png"
+  },
+  {
+    "name": "Disney Channel (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_disney/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/disneychannel.png",
+    "backups": [
+      "http://88.212.15.19/live/test_disney/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Disney Junior (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_disney_junior/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/disneyjr.png"
+  },
+  {
+    "name": "ducktv PLUS",
+    "url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ducktvplus.png"
+  },
+  {
+    "name": "Minimax CEE",
+    "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/minimax.png"
+  },
+  {
+    "name": "Nick Jr. (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/nickjr.png"
+  },
+  {
+    "name": "Nickelodeon (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/nickelodeon.png",
+    "backups": [
+      "http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Nicktoons (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/nicktoons.png",
+    "backups": [
+      "http://88.212.15.19/live/test_nicktoons/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Turbo TV",
+    "url": "https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8",
+    "tags": [
+      "kids"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/turbotv.png"
+  },
+  {
+    "name": "History (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_history/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/history.png",
+    "backups": [
+      "http://88.212.15.19/live/test_history/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "History2",
+    "url": "http://88.212.15.50/live/test_h2/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/history2.png"
+  },
+  {
+    "name": "Investigation Discovery (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/investigationdiscovery.png"
+  },
+  {
+    "name": "National Geographic (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_ngc/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/nationalgeographic.png"
+  },
+  {
+    "name": "National Geographic Wild (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_ngw/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/natgeowild.png"
+  },
+  {
+    "name": "Travel Channel (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/travelchannel.png"
+  },
+  {
+    "name": "Viasat Explore (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/viasatexplore.png",
+    "backups": [
+      "http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Viasat History (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/viasathistory.png",
+    "backups": [
+      "http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Viasat Nature (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/viasatnature.png",
+    "backups": [
+      "http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Animal Planet (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/animalplanet.png"
+  },
+  {
+    "name": "TV Lux (Slovakia)",
+    "url": "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8",
+    "tags": [
+      "other"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/tvlux.png",
+    "backups": [
+      "http://88.212.15.50/live/test_lux_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "TV Noe+",
+    "url": "https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8",
+    "tags": [
+      "other"
+    ],
+    "logo": "https://i.imgur.com/p4FtFUl.png"
+  },
+  {
+    "name": "TV Noe",
+    "url": "https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8",
+    "tags": [
+      "other"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/noetv.png",
+    "backups": [
+      "http://88.212.15.50/live/test_noe_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "TV NRSR",
+    "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+    "tags": [
+      "other"
+    ],
+    "logo": "https://i.imgur.com/hsJsu3I.png",
+    "backups": [
+      "https://dash3.antik.sk/live/test_nrsr/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "TLC (Czech Republic)",
+    "url": "http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/tlc.png"
+  },
+  {
+    "name": "Music Box Classic",
+    "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/musicboxclassic.png"
+  },
+  {
+    "name": "Music Box Dance",
+    "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/musicboxdance.png"
+  },
+  {
+    "name": "Music Box Hits",
+    "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/musicboxhits.png"
+  },
+  {
+    "name": "Music Box Sexy",
+    "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/musicboxsexy.png"
+  },
+  {
+    "name": "Ocko",
+    "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ocko.png"
+  },
+  {
+    "name": "Ocko Black",
+    "url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ockoblack.png"
+  },
+  {
+    "name": "Ocko Expres",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ockoexpres.png"
+  },
+  {
+    "name": "Ocko Gold",
+    "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://i.imgur.com/nrWNyLc.jpg"
+  },
+  {
+    "name": "Ocko Star",
+    "url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ockostar.png"
+  },
+  {
+    "name": "Retro Music TV",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/retromusictv.png"
+  },
+  {
+    "name": "Senzi",
+    "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_Senzi_TV.svg/512px-Logo_Senzi_TV.svg.png"
+  },
+  {
+    "name": "Slager Muzika",
+    "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://i.imgur.com/hKdXwrW.png"
+  },
+  {
+    "name": "Slager Original",
+    "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+    "tags": [
+      "music"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/slager1.png"
+  },
+  {
+    "name": "Eurosport 4K Czechia",
+    "url": "http://88.212.15.50/live/esp_4k_atk/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/eurosport4k.png"
+  },
+  {
+    "name": "Sport (Slovakia)",
+    "url": "http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/stvrsport.png",
+    "backups": [
+      "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Sport1",
+    "url": "http://88.212.15.50/live/test_sport1_25p/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/sport1.png",
+    "backups": [
+      "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Sport2",
+    "url": "http://88.212.15.50/live/test_sport_2/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/sport2.png",
+    "backups": [
+      "http://88.212.15.19/live/test_sport_2/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Arena Sport 1",
+    "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Arena_Sport_logo_2019.svg/512px-Arena_Sport_logo_2019.svg.png",
+    "backups": [
+      "http://88.212.15.19/live/test_arenasport/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "Arena Sport 2",
+    "url": "http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Arena_Sport_logo_2019.svg/512px-Arena_Sport_logo_2019.svg.png",
+    "backups": [
+      "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8"
+    ]
+  },
+  {
+    "name": ":24",
+    "url": "http://88.212.15.50/live/test_trojka_25p/playlist.m3u8",
+    "tags": [
+      "news"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/stvr24.png",
+    "backups": [
+      "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "CNN Prima News",
+    "url": "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8",
+    "tags": [
+      "news"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/cnnprimanews.png",
+    "backups": [
+      "http://santovic-test.6f.sk/sktv-forwarders/get.php?x=PrimaNews",
+      "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "CT24",
+    "url": "http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8",
+    "tags": [
+      "news"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/ct24.png",
+    "backups": [
+      "http://88.212.15.50/live/ct24_avc_25p/playlist.m3u8",
+      "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "JOJ Šport",
+    "url": "http://88.212.15.50/live/test_joj_sport_hd_hevc/playlist.m3u8",
+    "tags": [
+      "sport"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/jojsport.png",
+    "backups": [
+      "https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8"
+    ]
+  },
+  {
+    "name": "CS History",
+    "url": "https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/cshistory.png",
+    "backups": [
+      "http://88.212.15.50/live/cs_history_avc_25p/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "CS Mystery",
+    "url": "https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8",
+    "tags": [
+      "doc"
+    ],
+    "logo": "https://cdn.dobes.pw/tvp/640/csmystery.png",
+    "backups": [
+      "http://88.212.15.50/live/cs_mystery_avc_25p/playlist.m3u8"
+    ]
+  }
+]
