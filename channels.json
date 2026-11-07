@@ -471,7 +471,10 @@
     ],
     "short": "FB",
     "color": "#6A1B9A",
-    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplusone.png"
+    "logo": "https://cdn.dobes.pw/tvp/640/filmboxplusone.png",
+    "backups": [
+      "http://88.212.15.50/live/test_filmbox/playlist.m3u8"
+    ]
   },
   {
     "name": "FILMBOX+ Hits",
@@ -758,6 +761,16 @@
       "doc"
     ],
     "logo": "https://cdn.dobes.pw/tvp/640/travelchannel.png"
+  },
+  {
+    "name": "Travelxp",
+    "url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/horvathe568/ers-epg/main/travelxp.png",
+    "tags": [
+      "doc"
+    ],
+    "short": "TX",
+    "color": "#E91E4B"
   },
   {
     "name": "Viasat Explore (Czech Republic)",
@@ -1050,6 +1063,16 @@
       "http://88.212.15.50/live/ct24_avc_25p/playlist.m3u8",
       "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8"
     ]
+  },
+  {
+    "name": "TA3",
+    "url": "http://88.212.15.50/live/test_ta3_25p/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/horvathe568/ers-epg/main/ta3.png",
+    "tags": [
+      "news"
+    ],
+    "short": "TA3",
+    "color": "#1F5192"
   },
   {
     "name": "JOJ Šport",

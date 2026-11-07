@@ -74,6 +74,7 @@ Investigation Discovery (Czech Republic)
 National Geographic (Czech Republic)
 National Geographic Wild (Czech Republic)
 Travel Channel (Czech Republic)
+Travelxp
 Viasat Explore (Czech Republic)
 Viasat History (Czech Republic)
 Viasat Nature (Czech Republic)
@@ -105,6 +106,7 @@ Arena Sport 2
 :24
 CNN Prima News
 CT24
+TA3
 JOJ Šport
 CS History
 CS Mystery

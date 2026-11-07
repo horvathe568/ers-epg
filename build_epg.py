@@ -46,6 +46,7 @@ MAP = {
  "Investigation Discovery (Czech Republic)": ["CRIMEandINVESTIGATION.cz"],
  "National Geographic (Czech Republic)": ["NATIONALGEOGRAPHIC.cz"], "National Geographic Wild (Czech Republic)": ["NATGEOWILD.cz"],
  "Travel Channel (Czech Republic)": ["Travel.Channel.HD.sk", "TRAVELCHANNEL.cz"],
+ "Travelxp": ["TRAVELXP4K.cz", "Travelxp.4K.cz", "TRAVELXP.cz"],
  "Viasat Explore (Czech Republic)": ["Viasat.Explore.HD.sk", "ViasatExplore.cz"], "Viasat History (Czech Republic)": ["Viasat.History.HD.sk", "VIASATHISTORY.cz"],
  "Viasat Nature (Czech Republic)": ["Viasat.Nature.HD.sk", "VIASATNATURE.cz"], "Animal Planet (Czech Republic)": ["Animal.Planet.HD.sk", "ANIMALPLANET.cz"],
  "TV Lux (Slovakia)": ["Lux.TV.HD.sk", "TVLUX.cz"], "TV Noe+": ["NOE.sk"], "TV Noe": ["NOE.sk", "TVNOE.cz"], "TV NRSR": ["tv.NRSR.sk"],
@@ -56,6 +57,7 @@ MAP = {
  "Eurosport 4K Czechia": ["Eurosport.1.HD.sk", "EUROSPORT.cz"], "Sport (Slovakia)": [":ŠPORT.HD.sk"],
  "Sport1": ["SPORT1.cz", "Sport1.HD.sk"], "Sport2": ["SPORT2.cz"],
  "Arena Sport 1": ["Arena.Sport.1.HD.sk", "ARENASPORT1.cz"], "Arena Sport 2": ["Arena.Sport.2.HD.sk", "ARENASPORT2.cz"],
+ "TA3": ["TA3.cz", "TA3.HD.sk"],
  ":24": [":24.HD.sk"], "CNN Prima News": ["CNN.Prima.News.HD.sk", "CNNPRIMANEWS.cz"],
  "CS History": ["CS.History.sk", "CSHistory.cz"], "CS Mystery": ["CS.Mystery.sk", "CSMYSTERY.cz"],
 }
