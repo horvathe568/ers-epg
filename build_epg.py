@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Zo zdrojového EPG (kozmali/sk-cz-epg) vyrobí malý epg.xml.gz iba s programami z apky.
 ID kanála vo výstupe = presný názov programu z channels.json."""
-import gzip, io, re, urllib.request
+import gzip, io, re, time, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
@@ -73,7 +73,16 @@ def parse_time(s):
 def main():
     names = [l.strip() for l in open(NAMES, encoding="utf-8") if l.strip()]
     print("Sťahujem zdroj…", flush=True)
-    raw = urllib.request.urlopen(urllib.request.Request(SRC, headers={"User-Agent": "epg-builder"}), timeout=120).read()
+    raw = None
+    for pokus in range(4):  # zdroj občas na chvíľu zlyhá, skúsime viackrát
+        try:
+            raw = urllib.request.urlopen(urllib.request.Request(SRC, headers={"User-Agent": "epg-builder"}), timeout=120).read()
+            break
+        except Exception as e:
+            print("Zdroj zlyhal (pokus %d): %s" % (pokus + 1, e), flush=True)
+            time.sleep(20 * (pokus + 1))
+    if raw is None:
+        raise SystemExit("Zdroj EPG sa nepodarilo stiahnuť")
     now = datetime.now(timezone.utc)
     lo, hi = now - timedelta(hours=HOURS_BACK), now + timedelta(hours=HOURS_AHEAD)
     wanted = {i for ids in MAP.values() for i in ids}
@@ -94,7 +103,9 @@ def main():
     root = ET.Element("tv", {"generated": now.strftime("%Y-%m-%d %H:%M UTC")})
     ok, miss = 0, []
     for name in names:
-        src = next((i for i in MAP.get(name, []) if progs.get(i)), None)
+        # zo zdrojov vyberieme ten, ktorého program siaha najďalej do budúcnosti (starý/neúplný zdroj sa preskočí)
+        cands = [i for i in MAP.get(name, []) if progs.get(i)]
+        src = max(cands, key=lambda i: max(x[1] for x in progs[i])) if cands else None
         if not src:
             miss.append(name); continue
         ok += 1
