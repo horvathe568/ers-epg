@@ -95,6 +95,8 @@ def main():
                     st, sp = parse_time(el.get("start")), parse_time(el.get("stop"))
                     if sp > lo and st < hi:
                         t = el.findtext("title") or ""
+                        if t.strip().lower() in ("", "no data", "žiadne dáta", "bez dat"):
+                            el.clear(); continue  # prázdny zástupný záznam zdroja
                         d = (el.findtext("desc") or "")[:300]
                         progs.setdefault(cid, []).append((st, sp, t, d))
                 el.clear()
